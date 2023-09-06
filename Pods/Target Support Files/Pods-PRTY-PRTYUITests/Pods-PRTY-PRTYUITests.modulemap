@@ -1,0 +1,6 @@
+framework module Pods_PRTY_PRTYUITests {
+  umbrella header "Pods-PRTY-PRTYUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

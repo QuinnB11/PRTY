@@ -1,0 +1,6 @@
+framework module Pods_PRTY {
+  umbrella header "Pods-PRTY-umbrella.h"
+
+  export *
+  module * { export * }
+}
